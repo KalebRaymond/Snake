@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1498525802 source:c:\users\ill_priest\downloads\brbr\release me\test.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<array>
+	"sl.h"
+
+1497645686 c:\users\ill_priest\downloads\brbr\release me\include\sl.h
+
+1498525888 source:d:\c++ backup\programs\self\snake\snake.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<array>
+	"sl.h"
+
+1497645686 d:\c++ backup\programs\self\snake\include\sl.h
+
