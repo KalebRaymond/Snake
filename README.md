@@ -1,2 +1,2 @@
 # Snake
-Basic Snake game using SDL API
+Basic Snake game using libsigil
